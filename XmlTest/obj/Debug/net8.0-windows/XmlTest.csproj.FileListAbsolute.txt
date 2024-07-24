@@ -1,0 +1,16 @@
+C:\Users\Efrat\Desktop\Shmuel\kodekod_2\c#\XmlTest\XmlTest\bin\Debug\net8.0-windows\XmlTest.exe
+C:\Users\Efrat\Desktop\Shmuel\kodekod_2\c#\XmlTest\XmlTest\bin\Debug\net8.0-windows\XmlTest.deps.json
+C:\Users\Efrat\Desktop\Shmuel\kodekod_2\c#\XmlTest\XmlTest\bin\Debug\net8.0-windows\XmlTest.runtimeconfig.json
+C:\Users\Efrat\Desktop\Shmuel\kodekod_2\c#\XmlTest\XmlTest\bin\Debug\net8.0-windows\XmlTest.dll
+C:\Users\Efrat\Desktop\Shmuel\kodekod_2\c#\XmlTest\XmlTest\bin\Debug\net8.0-windows\XmlTest.pdb
+C:\Users\Efrat\Desktop\Shmuel\kodekod_2\c#\XmlTest\XmlTest\obj\Debug\net8.0-windows\XmlTest.Form1.resources
+C:\Users\Efrat\Desktop\Shmuel\kodekod_2\c#\XmlTest\XmlTest\obj\Debug\net8.0-windows\XmlTest.csproj.GenerateResource.cache
+C:\Users\Efrat\Desktop\Shmuel\kodekod_2\c#\XmlTest\XmlTest\obj\Debug\net8.0-windows\XmlTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efrat\Desktop\Shmuel\kodekod_2\c#\XmlTest\XmlTest\obj\Debug\net8.0-windows\XmlTest.AssemblyInfoInputs.cache
+C:\Users\Efrat\Desktop\Shmuel\kodekod_2\c#\XmlTest\XmlTest\obj\Debug\net8.0-windows\XmlTest.AssemblyInfo.cs
+C:\Users\Efrat\Desktop\Shmuel\kodekod_2\c#\XmlTest\XmlTest\obj\Debug\net8.0-windows\XmlTest.csproj.CoreCompileInputs.cache
+C:\Users\Efrat\Desktop\Shmuel\kodekod_2\c#\XmlTest\XmlTest\obj\Debug\net8.0-windows\XmlTest.dll
+C:\Users\Efrat\Desktop\Shmuel\kodekod_2\c#\XmlTest\XmlTest\obj\Debug\net8.0-windows\refint\XmlTest.dll
+C:\Users\Efrat\Desktop\Shmuel\kodekod_2\c#\XmlTest\XmlTest\obj\Debug\net8.0-windows\XmlTest.pdb
+C:\Users\Efrat\Desktop\Shmuel\kodekod_2\c#\XmlTest\XmlTest\obj\Debug\net8.0-windows\XmlTest.genruntimeconfig.cache
+C:\Users\Efrat\Desktop\Shmuel\kodekod_2\c#\XmlTest\XmlTest\obj\Debug\net8.0-windows\ref\XmlTest.dll

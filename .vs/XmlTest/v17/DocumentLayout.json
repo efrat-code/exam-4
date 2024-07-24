@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Efrat\\Desktop\\Shmuel\\kodekod_2\\c#\\XmlTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09E8CF1C-C391-4567-8720-E25E503B20F2}|XmlTest\\XmlTest.csproj|c:\\users\\efrat\\desktop\\shmuel\\kodekod_2\\c#\\xmltest\\xmltest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E8CF1C-C391-4567-8720-E25E503B20F2}|XmlTest\\XmlTest.csproj|solutionrelative:xmltest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E8CF1C-C391-4567-8720-E25E503B20F2}|XmlTest\\XmlTest.csproj|c:\\users\\efrat\\desktop\\shmuel\\kodekod_2\\c#\\xmltest\\xmltest\\model\\datemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E8CF1C-C391-4567-8720-E25E503B20F2}|XmlTest\\XmlTest.csproj|solutionrelative:xmltest\\model\\datemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E8CF1C-C391-4567-8720-E25E503B20F2}|XmlTest\\XmlTest.csproj|c:\\users\\efrat\\desktop\\shmuel\\kodekod_2\\c#\\xmltest\\xmltest\\servise\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E8CF1C-C391-4567-8720-E25E503B20F2}|XmlTest\\XmlTest.csproj|solutionrelative:xmltest\\servise\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E8CF1C-C391-4567-8720-E25E503B20F2}|XmlTest\\XmlTest.csproj|c:\\users\\efrat\\desktop\\shmuel\\kodekod_2\\c#\\xmltest\\xmltest\\configuration\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E8CF1C-C391-4567-8720-E25E503B20F2}|XmlTest\\XmlTest.csproj|solutionrelative:xmltest\\configuration\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E8CF1C-C391-4567-8720-E25E503B20F2}|XmlTest\\XmlTest.csproj|C:\\Users\\Efrat\\Desktop\\Shmuel\\kodekod_2\\c#\\XmlTest\\xmltest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09E8CF1C-C391-4567-8720-E25E503B20F2}|XmlTest\\XmlTest.csproj|solutionrelative:xmltest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Efrat\\Desktop\\Shmuel\\kodekod_2\\c#\\XmlTest\\XmlTest\\Form1.cs",
+              "RelativeDocumentMoniker": "XmlTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\Efrat\\Desktop\\Shmuel\\kodekod_2\\c#\\XmlTest\\XmlTest\\Form1.cs",
+              "RelativeToolTip": "XmlTest\\Form1.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAswNsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:43:26.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateModel.cs",
+              "DocumentMoniker": "C:\\Users\\Efrat\\Desktop\\Shmuel\\kodekod_2\\c#\\XmlTest\\XmlTest\\Model\\DateModel.cs",
+              "RelativeDocumentMoniker": "XmlTest\\Model\\DateModel.cs",
+              "ToolTip": "C:\\Users\\Efrat\\Desktop\\Shmuel\\kodekod_2\\c#\\XmlTest\\XmlTest\\Model\\DateModel.cs",
+              "RelativeToolTip": "XmlTest\\Model\\DateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:05:51.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "C:\\Users\\Efrat\\Desktop\\Shmuel\\kodekod_2\\c#\\XmlTest\\XmlTest\\Servise\\TestService.cs",
+              "RelativeDocumentMoniker": "XmlTest\\Servise\\TestService.cs",
+              "ToolTip": "C:\\Users\\Efrat\\Desktop\\Shmuel\\kodekod_2\\c#\\XmlTest\\XmlTest\\Servise\\TestService.cs",
+              "RelativeToolTip": "XmlTest\\Servise\\TestService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:59:54.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Efrat\\Desktop\\Shmuel\\kodekod_2\\c#\\XmlTest\\XmlTest\\Configuration\\Configuration.cs",
+              "RelativeDocumentMoniker": "XmlTest\\Configuration\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Efrat\\Desktop\\Shmuel\\kodekod_2\\c#\\XmlTest\\XmlTest\\Configuration\\Configuration.cs",
+              "RelativeToolTip": "XmlTest\\Configuration\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:43:53.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Efrat\\Desktop\\Shmuel\\kodekod_2\\c#\\XmlTest\\XmlTest\\Form1.cs",
+              "RelativeDocumentMoniker": "XmlTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\Efrat\\Desktop\\Shmuel\\kodekod_2\\c#\\XmlTest\\XmlTest\\Form1.cs [Design]",
+              "RelativeToolTip": "XmlTest\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:42:32.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<date-test>
+  <day>שני</day>
+  <dayinmonyh>5</dayinmonyh>
+  <month>שבט</month>
+  <year>תשפ"ב</year>
+  <day>שני</day>
+  <dayinmonyh>6</dayinmonyh>
+  <month>טבת</month>
+  <year>תשפ"ב</year>
+  <day>שני</day>
+  <dayinmonyh>5</dayinmonyh>
+  <month>חשוון</month>
+  <year>תש"עט</year>
+  <day>רביעי</day>
+  <dayinmonyh>5</dayinmonyh>
+  <month>כסליו</month>
+  <year>תשפ"א</year>
+  <day>רביעי</day>
+  <dayinmonyh>3</dayinmonyh>
+  <month>כסליו</month>
+  <year>תשפ"א</year>
+  <day>ראשון</day>
+  <dayinmonyh>1</dayinmonyh>
+  <month>תשרי </month>
+  <year>תש"עט</year>
+  <result>באחד בשבת ביום אחד לירח  לשנת בבניה  </result>
+  <day>שני</day>
+  <dayinmonyh>3</dayinmonyh>
+  <month>כסליו</month>
+  <year>תש"פ</year>
+  <result>בשני בשבת בשלושה ימים לירח כסליו לשנת תש"פ </result>
+  <day>שלישי</day>
+  <dayinmonyh>4</dayinmonyh>
+  <month>חשוון</month>
+  <year>תשפ"ג</year>
+  <result>בשלישי בשבת בארבעה ימים לירח חשוון לשנת תשפ"ג </result>
+  <day>שני</day>
+  <dayinmonyh>30</dayinmonyh>
+  <month>חשוון</month>
+  <year>תש"פ</year>
+  <result>בשני בשבת ב שלושים ימים לירח כסליו לשנת תש"פ </result>
+  <day>רביעי</day>
+  <dayinmonyh>30</dayinmonyh>
+  <month>סיוון</month>
+  <year>תשפ"ג</year>
+  <result>ברביעי בשבת ב שלושים ימים לירח סיווןשהוא ראש חודש  לשנת תשפ"ג </result>
+  <day>שני</day>
+  <dayinmonyh>5</dayinmonyh>
+  <month>טבת</month>
+  <year>תש"פ</year>
+  <result>בשני בשבת בחמישה ימים לירח טבת לשנת תש"פ </result>
+  <day>שני</day>
+  <dayinmonyh>30</dayinmonyh>
+  <month>טבת</month>
+  <year>תש"פ</year>
+  <result>בשני בשבת ב שלושים ימים לירח טבת שהוא ראש חודש שבט לשנת תש"פ </result>
+</date-test>
